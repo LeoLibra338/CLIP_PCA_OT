@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/pca_residual-20260629_193835/ep=9_himo.pt",
+  "HiMoK_pearson": 0.6328415883847606
+}

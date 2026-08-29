@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/distill1-20260627_153657/ep=4_student.pt",
+  "HiMoK_pearson": 0.8185629497738196
+}

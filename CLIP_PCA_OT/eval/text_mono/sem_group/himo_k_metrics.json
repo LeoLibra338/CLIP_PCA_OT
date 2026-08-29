@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/sem_group-20260629_181848/ep=9_himo.pt",
+  "HiMoK_pearson": 0.2559580429929734
+}

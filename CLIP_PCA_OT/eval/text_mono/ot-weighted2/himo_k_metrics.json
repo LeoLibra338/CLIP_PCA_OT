@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/train_ot_weighted2-20260627_120004/ep=9_himo.pt",
+  "HiMoK_pearson": 0.23399432474140824
+}

@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/train_ot_goal-20260627_195213/ep=9_himo.pt",
+  "HiMoK_pearson": 0.8735741074567601
+}

@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/sem_decomp-20260629_170452/ep=9_himo.pt",
+  "HiMoK_pearson": 0.21181301253579107
+}

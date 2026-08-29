@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/sigrot2-20260629_215124/ep=9_himo.pt",
+  "HiMoK_pearson": 0.4181676413744144
+}

@@ -1,0 +1,4 @@
+{
+  "model": "../../weights/himo_clip_L.pt",
+  "HiMoK_pearson": 0.8817105534696701
+}

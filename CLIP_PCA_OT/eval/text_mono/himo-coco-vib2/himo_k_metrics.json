@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/train_coco_vib2-20260625_164916/ep=9_himo.pt",
+  "HiMoK_pearson": 0.21720309316144443
+}

@@ -1,0 +1,4 @@
+{
+  "model": "../../output/ckpts/pure_clip-20260629_154440/ep=9_himo.pt",
+  "HiMoK_pearson": 0.5095913116292468
+}

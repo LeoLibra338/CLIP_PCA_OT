@@ -1,0 +1,4 @@
+{
+  "model": "../../train/output/ckpts/pca_hardneg-20260630_173109/ep=9_himo.pt",
+  "HiMoK_pearson": -0.10267248863573573
+}
